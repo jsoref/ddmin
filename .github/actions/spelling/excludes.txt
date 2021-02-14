@@ -1,0 +1,6 @@
+ignore$
+(?:^|/)(?i)COPYRIGHT
+(?:^|/)(?i)LICEN[CS]E
+(?:^|/)vendor/
+^\.github/
+^rebar$
